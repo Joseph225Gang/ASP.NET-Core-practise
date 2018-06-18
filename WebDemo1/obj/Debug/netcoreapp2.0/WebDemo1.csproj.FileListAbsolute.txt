@@ -1,0 +1,11 @@
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\bin\Debug\netcoreapp2.0\WebDemo1.deps.json
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\bin\Debug\netcoreapp2.0\WebDemo1.runtimeconfig.json
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\bin\Debug\netcoreapp2.0\WebDemo1.runtimeconfig.dev.json
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\bin\Debug\netcoreapp2.0\WebDemo1.dll
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\bin\Debug\netcoreapp2.0\WebDemo1.pdb
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\obj\Debug\netcoreapp2.0\WebDemo1.csprojAssemblyReference.cache
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\obj\Debug\netcoreapp2.0\WebDemo1.csproj.CoreCompileInputs.cache
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\obj\Debug\netcoreapp2.0\WebDemo1.AssemblyInfoInputs.cache
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\obj\Debug\netcoreapp2.0\WebDemo1.AssemblyInfo.cs
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\obj\Debug\netcoreapp2.0\WebDemo1.dll
+C:\Users\joseph\source\repos\WebDemo1\WebDemo1\obj\Debug\netcoreapp2.0\WebDemo1.pdb
